@@ -1,0 +1,30 @@
+ h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+h1{
+    text-align : center;
+}
+
+h2{
+     text-align : center;
+}
+
+
+p{
+     text-align : center;
+}
+
+.center-btn {
+    display: block;         
+    margin: 50px auto;      
+    padding: 10px 20px;     
+    font-size: 18px;        
+    background-color: blue; 
+    color: white;           
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
